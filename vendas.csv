@@ -1,0 +1,21 @@
+id,nome,categoria,preco,quantidade,estoque_minimo
+1,Notebook Dell Inspiron,Eletrônicos,3899.90,12,5
+2,Smartphone Samsung Galaxy A32,Eletrônicos,1499.00,30,10
+3,Cadeira Gamer Mymax,Escritório,799.90,7,3
+4,Caneta Bic Azul,Papelaria,1.50,500,200
+5,Livro: Clean Code,Livros,99.90,15,5
+6,Monitor LG 24'',Eletrônicos,899.00,10,4
+7,Mouse Logitech M170,Periféricos,89.00,25,10
+8,Teclado Mecânico Redragon,Periféricos,299.00,8,3
+9,Caderno 10 matérias,Papelaria,22.90,100,40
+10,Headset JBL Quantum 100,Áudio,249.00,9,2
+11,Mochila Dell Essential,Acessórios,199.00,6,2
+12,HD Externo 1TB Seagate,Armazenamento,359.00,5,2
+13,Pendrive 64GB Kingston,Armazenamento,49.90,50,20
+14,Impressora HP DeskJet 2376,Periféricos,429.00,4,2
+15,Estabilizador SMS 300VA,Eletrônicos,129.00,6,2
+16,Agenda 2024,Papelaria,29.90,80,30
+17,Calculadora Casio Científica,Escritório,139.00,3,1
+18,Tripé de Mesa para Celular,Acessórios,39.90,12,5
+19,Extensão Elétrica 5 Tomadas,Acessórios,27.50,20,8
+20,Carregador Turbo USB-C,Eletrônicos,89.90,15,6
